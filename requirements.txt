@@ -1,0 +1,8 @@
+streamlit
+sklearn
+pandas
+seaborn
+matplotlib
+plotly
+joblib
+random
